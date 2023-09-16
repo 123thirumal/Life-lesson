@@ -1,0 +1,33 @@
+#home-page7
+{
+    background-image: url("../resources/boy_walking_in_1.PNG");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#sieben
+{
+    font-family:'Itim', cursive;
+    font-weight: bold;
+    color:#afe486;
+    height: 120px;
+    position: fixed;
+    font-size: 60px;
+    top: 50px;
+    left: 100px;    
+    width: 400px;
+}
+#go-home
+{
+    font-family: 'Itim',cursive;
+    font-size: 55px;
+    color:white;
+    height: 75px;
+    width: 190px;
+    border-radius:100px;
+    text-align: center;
+    background-color: #51775a;
+    position:fixed;
+    left: 150px;
+    top: 450px;
+}

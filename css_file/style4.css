@@ -1,0 +1,63 @@
+#home-page4
+{
+    background-image: url("../resources/replicate-prediction-4fl755jb4fzeotn4xb3zsnqa3y.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#fourth
+{
+    font-family:'Itim', cursive;
+    font-weight:950px;
+    color:#b8ce9f;
+    height: 120px;
+    position: fixed;
+    font-size: 50px;
+    top: 10px;
+    right: 100px;    
+    width: 600px;
+    text-align: left;  
+}
+#inside-4
+{
+    font-family: 'Itim',cursive;
+    font-size:32px;
+    font-weight: 900px;
+    color: #ffffff;
+    height:315px;
+    width:650px;
+    position: fixed;
+    right: 3px;
+    top: 149px;
+    background-color:#66835fb1 ;
+    border-radius: 50px;
+    text-align: center;
+}
+#next-button-4
+{
+    font-family: 'Itim',cursive;
+    font-size: 55px;
+    color:white;
+    height: 75px;
+    width: 170px;
+    border-radius:100px;
+    text-align: center;
+    background-color: #66835fb1;
+    position:fixed;
+    right: 50px;
+    top: 530px;
+}
+#prev-button-4
+{
+    font-family: 'Itim',cursive;
+    font-size: 55px;
+    color:white;
+    height: 75px;
+    width: 170px;
+    border-radius:100px;
+    text-align: center;
+    background-color: #66835fb1;
+    position:fixed;
+    right: 400px;
+    top: 530px;
+}

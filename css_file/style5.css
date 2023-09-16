@@ -1,0 +1,62 @@
+#home-page5
+{
+    background-image: url("../resources/gsanufsb0fcowsp5lkmjb_1.PNG");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#fifth
+{
+    font-family:'Itim', cursive;
+    font-weight: bold;
+    color:#ffffff;
+    height: 120px;
+    position: fixed;
+    font-size: 60px;
+    top: 10px;
+    left: 40px;    
+    width: 900px;
+}
+#inside-5
+{
+    font-family: 'Itim',cursive;
+    font-size:32px;
+    color:#ffffff;
+    height:310px;
+    width: 610px;
+    font-weight: 900;
+    position: fixed;
+    left: 100px;
+    top: 130px;
+    background-color: #898888bb;
+    text-align: center;
+    border-radius: 50px;
+}
+#next-button-5
+{
+    font-family: 'Itim',cursive;
+    font-size: 55px;
+    color:white;
+    height: 75px;
+    width: 170px;
+    border-radius:100px;
+    text-align: center;
+    background-color: #898888bb;
+    position:fixed;
+    left: 480px;
+    top: 530px;
+}
+#prev-button-5
+{
+    font-family: 'Itim',cursive;
+    font-size: 55px;
+    color:white;
+    height: 75px;
+    width: 170px;
+    border-radius:100px;
+    text-align: center;
+    background-color: #898888bb;
+    position:fixed;
+    left: 150px;
+    top: 530px;
+}

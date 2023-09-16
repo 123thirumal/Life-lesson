@@ -1,0 +1,44 @@
+#home
+{
+    background-image: url("../resources/42daf97504414884a03f53637692d3ca_1.PNG");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#my_life_lessons
+{
+    font-family:'Itim', cursive;
+    font-weight: bold;
+    color:#254e5d;
+    height: 120px;
+    position: fixed;
+    font-size: 60px;
+    top: 10px;
+    left: 40px;    
+    width: 900px;
+}
+#inside
+{
+    font-family: 'Itim',cursive;
+    font-size:60px;
+    color:#254e5d;
+    height:309px;
+    width:300px;
+    position: fixed;
+    left: 200px;
+    top: 130px;
+}
+#explore
+{
+    font-family: 'Itim',cursive;
+    font-size: 55px;
+    color:white;
+    height: 75px;
+    width: 250px;
+    border-radius:100px;
+    text-align: center;
+    background-color: #105e5fbe;
+    position:fixed;
+    left: 180px;
+    top: 450px;
+}

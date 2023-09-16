@@ -1,0 +1,61 @@
+#home-page3
+{
+    background-image: url("../resources/desktop___1.PNG");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#second
+{
+    font-family:'Itim', cursive;
+    font-weight: bold;
+    color:#221007;
+    height: 120px;
+    position: fixed;
+    font-size: 60px;
+    top: 10px;
+    left: 40px;    
+    width: 900px;
+}
+#inside-3
+{
+    font-family: 'Itim',cursive;
+    font-size:30px;
+    color:#fdfdfd;
+    height:300px;
+    width: 660px;
+    position: fixed;
+    left: 100px;
+    top: 130px;
+    background-color:#503434bb ;
+    text-align: center;
+    border-radius: 50px;
+}
+#next-button-3
+{
+    font-family: 'Itim',cursive;
+    font-size: 55px;
+    color:white;
+    height: 75px;
+    width: 170px;
+    border-radius:100px;
+    text-align: center;
+    background-color: #503434bb;
+    position:fixed;
+    left: 480px;
+    top: 530px;
+}
+#prev-button-3
+{
+    font-family: 'Itim',cursive;
+    font-size: 55px;
+    color:white;
+    height: 75px;
+    width: 170px;
+    border-radius:100px;
+    text-align: center;
+    background-color: #503434bb;
+    position:fixed;
+    left: 150px;
+    top: 530px;
+}

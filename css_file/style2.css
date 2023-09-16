@@ -1,0 +1,49 @@
+#page-2-home
+{
+    background-image: url("../resources/desktop___1.JPG");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#first
+{
+    font-family:'Itim', cursive;
+    font-weight: bold;
+    color:#3B2020;
+    height: 120px;
+    position: fixed;
+    font-size: 60px;
+    top: 10px;
+    right: 100px;    
+    width: 600px;
+    text-align: center;
+}
+#inside-2
+{
+    font-family: 'Itim',cursive;
+    font-size:40px;
+    color: rgb(255, 255, 255);
+    height:309px;
+    width:600px;
+    position: fixed;
+    right: 3px;
+    top: 120px;
+    text-align: center;
+    background-color:#6f452dcb ;
+    border-radius: 50px;
+
+}
+#next-button
+{
+    font-family: 'Itim',cursive;
+    font-size: 55px;
+    color:white;
+    height: 75px;
+    width: 170px;
+    border-radius:100px;
+    text-align: center;
+    background-color: #6f452dcb;
+    position:fixed;
+    right: 50px;
+    top: 500px;
+}
